@@ -1,0 +1,43 @@
+.card{
+    max-width: 250px;
+    border: 2px solid black;
+    border-radius: 15px ;
+    padding: 10px;
+
+}
+
+.box{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    
+
+}
+h2{
+    padding: 0;
+
+    text-align: center;
+}
+h1{
+    padding: 0;
+    font-size: 15px;
+
+}
+h3{
+    font-size: 16px;
+    font-weight: 700;
+    color: rgb(7, 7, 144);
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: #0000;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+
+p2{
+
+}
